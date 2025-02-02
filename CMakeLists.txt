@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.26)
 
 project(
-    Template 
-    DESCRIPTION "A crossplatform template for C++ projects with CMake"
+    Sibyl-System 
+    DESCRIPTION "A crossplatform key logger to aggregate and analyze mouse and keyboard usage over time"
     VERSION 0.0.1
     LANGUAGES CXX
 )

@@ -7,7 +7,7 @@ To install this software you'll need to provide the following:
 - CPPCheck
 - Valgrind
 
-This project also depends on GTest, GMock and FXTUI. This
+This project also depends on GTest, GMock. This
 software is automatically pulled from external repositories
 during the installation.
 

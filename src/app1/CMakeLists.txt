@@ -6,9 +6,7 @@ target_sources(app1
                FILES include/app1/basic.hpp
 )
 
-set_target_properties(app1 PROPERTIES
-    POSITION_INDEPENDENT_CODE 1
-)
+set_target_properties(app1 PROPERTIES POSITION_INDEPENDENT_CODE 1)
 
 InstrumentForCoverage(app1)
 
